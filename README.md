@@ -1,6 +1,9 @@
 # customerCheckout
 A java program uses LinkedQueue which assigns the customers in a a optimized way in which it will take less time for checkout
 
+![stock-vector-grocery-shopping-queue-shop-queues-people-cartoon-retail-store-customers-in-long-line-and-cashier-1511425244](https://user-images.githubusercontent.com/70450861/167308715-127c8da0-e18c-4e35-ae09-1e3392489726.jpg)
+
+
 ## Implementation
 - Created a customer class which keeps the track of number of items, is customer eligible for express checkout, and also total serve time
 - Read the file and created a arraylist which stores all the customer objects
